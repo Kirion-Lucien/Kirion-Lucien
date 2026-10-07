@@ -11,16 +11,16 @@
 <g font-family="Arial, Helvetica, sans-serif">
   <text x="64" y="520" fill="#B98518" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="27" font-weight="700">01</text>
   <text x="122" y="520" fill="#F4F1E8" font-size="38" font-weight="700">PRIORITY</text>
-  <text x="330" y="520" fill="#AAA598" font-size="28">what deserves attention now</text>
+  <text x="395" y="520" fill="#AAA598" font-size="28">what deserves attention now</text>
   <text x="64" y="592" fill="#B98518" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="27" font-weight="700">02</text>
   <text x="122" y="592" fill="#F4F1E8" font-size="38" font-weight="700">STATE</text>
-  <text x="330" y="592" fill="#AAA598" font-size="28">what changed and what it means</text>
+  <text x="395" y="592" fill="#AAA598" font-size="28">what changed and what it means</text>
   <text x="64" y="664" fill="#B98518" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="27" font-weight="700">03</text>
   <text x="122" y="664" fill="#F4F1E8" font-size="38" font-weight="700">RECOVERY</text>
-  <text x="330" y="664" fill="#AAA598" font-size="28">what happens when the ideal path breaks</text>
+  <text x="395" y="664" fill="#AAA598" font-size="28">what happens when the ideal path breaks</text>
   <text x="64" y="736" fill="#B98518" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="27" font-weight="700">04</text>
   <text x="122" y="736" fill="#F4F1E8" font-size="38" font-weight="700">CONTEXT</text>
-  <text x="330" y="736" fill="#AAA598" font-size="28">people · task · device · conditions</text>
+  <text x="395" y="736" fill="#AAA598" font-size="28">people · task · device · conditions</text>
 </g>
 <line x1="930" y1="128" x2="930" y2="682" stroke="#3B382E" stroke-width="3"/>
 <text x="967" y="157" fill="#AAA598" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="25" letter-spacing="2">SYSTEM INTENT</text>
