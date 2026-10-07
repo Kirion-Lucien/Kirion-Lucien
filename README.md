@@ -2,10 +2,6 @@
 
 <img src="./assets/lucien-hero-v1.webp" width="100%" alt="Kirion-Lucien — Interface Specialist" />
 
-<br/>
-
-[**The Kirion Smithy**](https://github.com/The-Kirion-Smithy) · [**@Kirch-Nairu**](https://github.com/Kirch-Nairu)
-
 </div>
 
 ---
@@ -16,15 +12,17 @@
 
 Interface Specialist of **[The Kirion Smithy](https://github.com/The-Kirion-Smithy)**.
 
-I shape the layer where people meet systems — structure, interaction, visual hierarchy, responsive behavior, accessibility, and frontend implementation. The work is not finished when a screen looks polished. It is finished when the interface explains what matters, exposes the right actions, communicates state clearly, survives failure, and remains usable across the conditions it was designed for.
+I shape the layer where people meet systems — structure, interaction, visual hierarchy, responsive behavior, accessibility, and frontend implementation. An interface should make priorities visible, make state understandable, and remain usable when the ideal path breaks.
 
-I care about the questions underneath the pixels: what deserves attention now, what can wait, what happens when an action fails, whether the same workflow still makes sense without a mouse, and whether the mobile experience was actually designed for mobile instead of compressed from desktop.
+The goal is not a signature look. It is an interface whose hierarchy, feedback, and recovery behavior fit the people, task, device, and operating conditions in front of it.
 
 **Clarity is part of correctness.**
 
 ---
 
 ## 02 — DISCIPLINES
+
+The specialization spans more than surface styling. Each discipline addresses a different layer of the same human-facing boundary, from how information is organized to how behavior survives implementation.
 
 **01 · UI / UX SYSTEMS**  
 `structure · flows · states`
@@ -54,11 +52,9 @@ I care about the questions underneath the pixels: what deserves attention now, w
 
 **One interface discipline. Different operating constraints.**
 
-Different systems should not inherit the same interface merely because they share a frontend stack. A public-service portal has to earn trust and make unfamiliar tasks understandable. An operations surface may carry far more density, but still needs strong scanning, filtering, and prioritization. Mobile changes reach, interruption, input, and available space. Desktop can support more simultaneous context without becoming permission to fill every region.
+A public-service portal, operations surface, mobile workflow, kiosk, realtime product, and degraded or offline system do not share the same density, input model, failure cost, connectivity assumptions, or user context. The visual language may remain coherent; the interaction model should not be forced to remain identical.
 
-Realtime products must make freshness, activity, and changing state legible. Kiosk and POS interfaces privilege speed, clarity, recoverability, and constrained input. Offline or degraded systems have to explain what remains available, what is pending, and what will happen when connectivity returns.
-
-These are operating frames, not claims that every frame has already been delivered as a production project. The point is to design from constraints instead of forcing one visual recipe onto every system.
+Lucien uses the frame to decide what must stay visible, what can collapse, how state is surfaced, and which recovery paths matter most. These are operating frames, not claims of completed production projects.
 
 ---
 
@@ -70,31 +66,23 @@ These are operating frames, not claims that every frame has already been deliver
 **Consistency before novelty.**  
 **Evidence before preference.**
 
-Implementation is part of the interface decision, not a handoff after it. Components should preserve meaning when reused. Responsive behavior should be intentional rather than accidental. Empty, loading, success, error, permission, retry, and disabled states deserve the same design attention as the ideal path. Keyboard focus and semantic structure are not cleanup tasks.
+Implementation belongs to interface design. Loading, error, permission, retry, and disabled states deserve deliberate treatment. Responsive behavior should be intentional, while keyboard focus and semantic structure remain part of the product rather than cleanup after the visual work is done.
 
-The implementation surface stays deliberately small:
+A polished ideal path is not enough; the system must still explain itself when data is missing, access is denied, or network conditions change.
 
 `HTML` · `CSS` · `JavaScript` · `TypeScript` · `React`
 
 `components` · `tokens` · `state` · `responsive systems` · `testing`
 
-Tools matter when they help the interface remain understandable, predictable, and maintainable. They are not the identity.
-
 ---
 
 ## 05 — UNDER FORGE
 
-### Frontend UI/UX Forge
-`UNDER FORGE`
+**Frontend UI/UX Forge** — practical training across responsive frames, component architecture, interaction states, accessibility, and frontend implementation. It is intended to sharpen repeatable judgment across different human-facing system boundaries, with the interface tested against context rather than one preferred visual treatment.
 
-Practical interface training across responsive frames, application classes, component architecture, interaction states, accessibility, and frontend implementation. The goal is not to produce one signature visual style; it is to sharpen repeatable judgment across different human-facing system boundaries.
+**UI/UX Master** — durable reference material for interface architecture, information hierarchy, interaction patterns, design systems, accessibility, and frontend craft. Its role is to preserve principles and reusable reasoning rather than chase a catalog of current visual trends.
 
-### UI/UX Master
-`UNDER FORGE`
-
-A durable reference for interface architecture, information hierarchy, interaction patterns, design systems, accessibility, and frontend craft. It is intended to become a long-lived working reference rather than a collection of trends or screenshots.
-
-These specialization surfaces are still under development. They are not presented here as completed repositories or finished bodies of work.
+Both remain **UNDER FORGE** and are not presented as finished repositories or completed bodies of work.
 
 *The specialization is still being sharpened.*
 
@@ -104,6 +92,6 @@ These specialization surfaces are still under development. They are not presente
 
 **Clear intent. Quiet structure.**
 
-[The Kirion Smithy](https://github.com/The-Kirion-Smithy) · [@Kirch-Nairu](https://github.com/Kirch-Nairu)
+[The Kirion Smithy](https://github.com/The-Kirion-Smithy)
 
 </div>
