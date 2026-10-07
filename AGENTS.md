@@ -19,7 +19,8 @@ It does **not** serve as the source of truth for private Kirion orchestration, c
 
 DEFAULT BRANCH: main
 CURRENT ACCEPTED BRANCH: main
-CURRENT ACCEPTED SHA: aec42f5a413e5041c0fae13b73b4d7a85014c398
+INHERITED BASELINE SHA: aec42f5a413e5041c0fae13b73b4d7a85014c398
+CURRENT AUTHORITY RULE: resolve and verify the exact remote `main` HEAD before every mutation; a static SHA inside this repository is not treated as self-updating authority.
 CURRENT PHASE: Profile rework planning after Forge bootstrap
 
 ## Architecture invariants
