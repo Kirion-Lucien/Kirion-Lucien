@@ -2,6 +2,12 @@
 
 <img src="./assets/lucien-hero-v1.webp" width="100%" alt="Kirion-Lucien — Interface Specialist" />
 
+<br/>
+
+<a href="https://github.com/The-Kirion-Smithy">
+  <img src="./assets/lucien-smithy-affiliation-v1.svg" width="100%" alt="Lucien Marek Sol — Interface Specialist of The Kirion Smithy" />
+</a>
+
 </div>
 
 ---
@@ -46,6 +52,8 @@ The specialization spans more than surface styling. Each discipline addresses a 
 
 ## 03 — FRAMES
 
+<img src="./assets/lucien-operating-frames-v1.svg" width="100%" alt="Operating frames — one interface discipline across public service, operations, mobile, desktop, data-dense, realtime, kiosk or POS, and offline or degraded contexts" />
+
 `PUBLIC SERVICE` · `OPERATIONS` · `MOBILE` · `DESKTOP`
 
 `DATA-DENSE` · `REALTIME` · `KIOSK / POS` · `OFFLINE / DEGRADED`
@@ -77,6 +85,8 @@ A polished ideal path is not enough; the system must still explain itself when d
 ---
 
 ## 05 — UNDER FORGE
+
+<img src="./assets/lucien-forge-state-v1.svg" width="100%" alt="Under Forge — Frontend UI/UX Forge and UI/UX Master remain in development" />
 
 **Frontend UI/UX Forge** — practical training across responsive frames, component architecture, interaction states, accessibility, and frontend implementation. It is intended to sharpen repeatable judgment across different human-facing system boundaries, with the interface tested against context rather than one preferred visual treatment.
 
