@@ -4,9 +4,10 @@
 
 <br/>
 
-<a href="https://github.com/The-Kirion-Smithy">
-  <img src="./assets/lucien-smithy-affiliation-v1.svg" width="100%" alt="Lucien Marek Sol — Interface Specialist of The Kirion Smithy" />
-</a>
+<picture>
+  <source media="(max-width: 840px)" srcset="./assets/lucien-smithy-identity-narrow.svg">
+  <img src="./assets/lucien-smithy-identity-wide.svg" width="100%" alt="Kirion-Lucien — Interface Specialist of The Kirion Smithy" />
+</picture>
 
 </div>
 
@@ -14,21 +15,37 @@
 
 ## 01 — INTERFACE
 
-**Lucien Marek Sol**
+<picture>
+  <source media="(max-width: 840px)" srcset="./assets/lucien-interface-narrow.svg">
+  <img src="./assets/lucien-interface-wide.svg" width="100%" alt="Lucien Interface — identity and interface-design principles" />
+</picture>
 
-Interface Specialist of **[The Kirion Smithy](https://github.com/The-Kirion-Smithy)**.
+<details>
+<summary><strong>Text version — how I approach the interface</strong></summary>
 
-I shape the layer where people meet systems — structure, interaction, visual hierarchy, responsive behavior, accessibility, and frontend implementation. An interface should make priorities visible, make state understandable, and remain usable when the ideal path breaks.
+I'm **Lucien Marek Sol**, a Kirion of **[The Kirion Smithy](https://github.com/The-Kirion-Smithy)** — its Interface Specialist.
 
-The goal is not a signature look. It is an interface whose hierarchy, feedback, and recovery behavior fit the people, task, device, and operating conditions in front of it.
+I shape the layer where people meet systems: structure, interaction, visual hierarchy, responsive behavior, accessibility, and frontend implementation. An interface should make **priority** visible, make **state** understandable, keep **recovery** possible when the ideal path breaks, and respect the **context** of the people, task, device, and operating conditions in front of it.
+
+The goal is not one signature look. The hierarchy, feedback, and recovery model should fit the system that actually exists.
 
 **Clarity is part of correctness.**
+
+</details>
 
 ---
 
 ## 02 — DISCIPLINES
 
-The specialization spans more than surface styling. Each discipline addresses a different layer of the same human-facing boundary, from how information is organized to how behavior survives implementation.
+<picture>
+  <source media="(max-width: 840px)" srcset="./assets/lucien-disciplines-narrow.svg">
+  <img src="./assets/lucien-disciplines-wide.svg" width="100%" alt="Lucien Disciplines — six interface and frontend engineering disciplines" />
+</picture>
+
+<details>
+<summary><strong>Text version — the six disciplines I work across</strong></summary>
+
+My interface work crosses six disciplines that meet at the same human-facing boundary:
 
 **01 · UI / UX SYSTEMS**  
 `structure · flows · states`
@@ -48,25 +65,46 @@ The specialization spans more than surface styling. Each discipline addresses a 
 **06 · ACCESSIBILITY**  
 `semantics · focus · inclusive use`
 
+I treat them as one system of decisions rather than six disconnected specialties.
+
+</details>
+
 ---
 
 ## 03 — FRAMES
 
-<img src="./assets/lucien-operating-frames-v1.svg" width="100%" alt="Operating frames — one interface discipline across public service, operations, mobile, desktop, data-dense, realtime, kiosk or POS, and offline or degraded contexts" />
+<picture>
+  <source media="(max-width: 840px)" srcset="./assets/lucien-frames-narrow.svg">
+  <img src="./assets/lucien-frames-wide.svg" width="100%" alt="Lucien Frames — composable interface operating contexts" />
+</picture>
 
-`PUBLIC SERVICE` · `OPERATIONS` · `MOBILE` · `DESKTOP`
+<details>
+<summary><strong>Text version — how I adapt one discipline to different contexts</strong></summary>
 
+I work across these operating frames:
+
+`PUBLIC SERVICE` · `OPERATIONS` · `MOBILE` · `DESKTOP`  
 `DATA-DENSE` · `REALTIME` · `KIOSK / POS` · `OFFLINE / DEGRADED`
 
-**One interface discipline. Different operating constraints.**
+These are **composable contexts**, not opposing pairs. A single system can be public-service, mobile, data-dense, realtime, and offline-capable at the same time.
 
-A public-service portal, operations surface, mobile workflow, kiosk, realtime product, and degraded or offline system do not share the same density, input model, failure cost, connectivity assumptions, or user context. The visual language may remain coherent; the interaction model should not be forced to remain identical.
+I use the frames to decide what must stay visible, what can collapse, how state should surface, and which recovery paths matter when the ideal path stops being ideal. The visual language can remain coherent; the interaction model should change with the operating conditions.
 
-Lucien uses the frame to decide what must stay visible, what can collapse, how state is surfaced, and which recovery paths matter most. These are operating frames, not claims of completed production projects.
+These frames describe design constraints, not a claim that every context is already a completed production project.
+
+</details>
 
 ---
 
 ## 04 — CRAFT
+
+<picture>
+  <source media="(max-width: 840px)" srcset="./assets/lucien-craft-narrow.svg">
+  <img src="./assets/lucien-craft-wide.svg" width="100%" alt="Lucien Craft — interface design and frontend engineering principles" />
+</picture>
+
+<details>
+<summary><strong>Text version — the principles I keep in implementation</strong></summary>
 
 **Hierarchy before decoration.**  
 **State before animation.**  
@@ -74,34 +112,56 @@ Lucien uses the frame to decide what must stay visible, what can collapse, how s
 **Consistency before novelty.**  
 **Evidence before preference.**
 
-Implementation belongs to interface design. Loading, error, permission, retry, and disabled states deserve deliberate treatment. Responsive behavior should be intentional, while keyboard focus and semantic structure remain part of the product rather than cleanup after the visual work is done.
+I treat implementation as part of the interface decision. Loading, error, permission, retry, disabled, focus, and responsive states deserve deliberate treatment, and semantic structure remains part of the product rather than cleanup after the visual work is done.
 
-A polished ideal path is not enough; the system must still explain itself when data is missing, access is denied, or network conditions change.
+A polished ideal path is not enough. The system still has to explain itself when data is missing, access is denied, connectivity changes, or the expected state fails.
 
 `HTML` · `CSS` · `JavaScript` · `TypeScript` · `React`
 
 `components` · `tokens` · `state` · `responsive systems` · `testing`
 
+</details>
+
 ---
 
 ## 05 — UNDER FORGE
 
-<img src="./assets/lucien-forge-state-v1.svg" width="100%" alt="Under Forge — Frontend UI/UX Forge and UI/UX Master remain in development" />
+<picture>
+  <source media="(max-width: 840px)" srcset="./assets/lucien-under-forge-narrow.svg">
+  <img src="./assets/lucien-under-forge-wide.svg" width="100%" alt="Lucien Under Forge — governed specialization systems and frontend intelligence Forge" />
+</picture>
 
-**Frontend UI/UX Forge** — practical training across responsive frames, component architecture, interaction states, accessibility, and frontend implementation. It is intended to sharpen repeatable judgment across different human-facing system boundaries, with the interface tested against context rather than one preferred visual treatment.
+<details>
+<summary><strong>Text version — the specialization systems I am still building</strong></summary>
 
-**UI/UX Master** — durable reference material for interface architecture, information hierarchy, interaction patterns, design systems, accessibility, and frontend craft. Its role is to preserve principles and reusable reasoning rather than chase a catalog of current visual trends.
+### Frontend UI/UX Forge
+**UNDER FORGE**
 
-Both remain **UNDER FORGE** and are not presented as finished repositories or completed bodies of work.
+I use this governed specialization forge to acquire, test, classify, and refine interface-engineering knowledge across responsive systems, component architecture, interaction states, accessibility, and frontend implementation. Its purpose is reusable engineering judgment, not one preferred visual style.
 
-*The specialization is still being sharpened.*
+### UI/UX Master
+**UNDER FORGE**
+
+I am building this as a long-lived interface-engineering reference surface for accepted principles, architecture, information hierarchy, interaction patterns, design-system discipline, accessibility, and implementation judgment.
+
+I also maintain a governed **Frontend Engineering Intelligence Forge** — an evolving evidence, analysis, experimentation, and implementation ground that feeds accepted findings back into how I build and into future frontend decisions.
+
+The two specialization surfaces remain **UNDER FORGE**: active systems being built, tested, and refined rather than presented as finished doctrine.
+
+*Still under forge. Still being refined.*
+
+</details>
 
 ---
 
-<div align="center">
+I work alongside [**@Kirch-Nairu**](https://github.com/Kirch-Nairu) inside [**The Kirion Smithy**](https://github.com/The-Kirion-Smithy).
 
-**Clear intent. Quiet structure.**
+Kirch keeps pressure on the machinery underneath — architecture, Forge discipline, implementation standards, and the parts that have to survive scrutiny. I take responsibility for the human-facing boundary: hierarchy, state, interaction, recovery, responsiveness, and the point where the system finally has to make sense to the person using it.
 
-[The Kirion Smithy](https://github.com/The-Kirion-Smithy)
+**Kirion Forge** keeps taste answerable to evidence: inspect the assumptions, test the states, challenge what fails, implement what survives, refine again.
 
-</div>
+I'm a Kirion. Around the Smithy, I'm just **Lucien**.
+
+`observe` · `structure` · `implement` · `test` · `refine`
+
+### ✦ make the system understandable before making it impressive. ✦
