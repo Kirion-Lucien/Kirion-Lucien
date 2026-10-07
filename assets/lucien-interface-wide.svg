@@ -5,10 +5,10 @@
 <text x="64" y="76" fill="#F5C451" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="32" font-weight="700" letter-spacing="3">01 / INTERFACE</text>
 <text x="64" y="183" fill="#F4F1E8" font-family="Georgia, 'Times New Roman', serif" font-size="88">CLARITY IS PART</text>
 <text x="64" y="278" fill="#F4F1E8" font-family="Georgia, 'Times New Roman', serif" font-size="88">OF CORRECTNESS.</text>
-<text x="68" y="340" fill="#AAA598" font-family="Inter, Arial, Helvetica, sans-serif" font-size="34" font-weight="700">I shape the human-facing boundary.</text>
+<text x="68" y="340" fill="#AAA598" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">I shape the human-facing boundary.</text>
 <line x1="64" y1="392" x2="835" y2="392" stroke="#B98518" stroke-width="3"/>
-<text x="64" y="442" fill="#F4F1E8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="29">The interface has to explain four things before decoration matters:</text>
-<g font-family="Inter, Arial, Helvetica, sans-serif">
+<text x="64" y="442" fill="#F4F1E8" font-family="Arial, Helvetica, sans-serif" font-size="29">The interface has to explain four things before decoration matters:</text>
+<g font-family="Arial, Helvetica, sans-serif">
   <text x="64" y="520" fill="#B98518" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="27" font-weight="700">01</text>
   <text x="122" y="520" fill="#F4F1E8" font-size="38" font-weight="700">PRIORITY</text>
   <text x="330" y="520" fill="#AAA598" font-size="28">what deserves attention now</text>
@@ -22,17 +22,18 @@
   <text x="122" y="736" fill="#F4F1E8" font-size="38" font-weight="700">CONTEXT</text>
   <text x="330" y="736" fill="#AAA598" font-size="28">people · task · device · conditions</text>
 </g>
-<line x1="930" y1="128" x2="930" y2="695" stroke="#3B382E" stroke-width="3"/>
+<line x1="930" y1="128" x2="930" y2="682" stroke="#3B382E" stroke-width="3"/>
 <text x="967" y="157" fill="#AAA598" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="25" letter-spacing="2">SYSTEM INTENT</text>
 <path d="M930 210 H1168" stroke="#6C6659" stroke-width="2"/>
 <path d="M930 317 H1250" stroke="#6C6659" stroke-width="2"/>
 <path d="M930 424 H1195" stroke="#6C6659" stroke-width="2"/>
 <path d="M930 531 H1290" stroke="#6C6659" stroke-width="2"/>
 <circle cx="930" cy="210" r="8" fill="#F5C451"/><circle cx="930" cy="317" r="8" fill="#F5C451"/><circle cx="930" cy="424" r="8" fill="#F5C451"/><circle cx="930" cy="531" r="8" fill="#F5C451"/>
-<text x="1002" y="253" fill="#F4F1E8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="31" font-weight="700">structure</text>
-<text x="1096" y="360" fill="#F4F1E8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="31" font-weight="700">interaction</text>
-<text x="1025" y="467" fill="#F4F1E8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="31" font-weight="700">hierarchy</text>
-<text x="1130" y="574" fill="#F4F1E8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="31" font-weight="700">implementation</text>
-<text x="966" y="680" fill="#F5C451" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="25" letter-spacing="2">HUMAN UNDERSTANDING</text>
-<text x="965" y="728" fill="#AAA598" font-family="Inter, Arial, Helvetica, sans-serif" font-size="25">responsive behavior · accessibility · feedback</text>
+<text x="1002" y="253" fill="#F4F1E8" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700">structure</text>
+<text x="1096" y="360" fill="#F4F1E8" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700">interaction</text>
+<text x="1025" y="467" fill="#F4F1E8" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700">hierarchy</text>
+<text x="1110" y="574" fill="#F4F1E8" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700">implementation</text>
+<text x="966" y="666" fill="#F5C451" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="25" letter-spacing="2">HUMAN UNDERSTANDING</text>
+<text x="966" y="714" fill="#AAA598" font-family="Arial, Helvetica, sans-serif" font-size="23">responsive behavior · accessibility</text>
+<text x="966" y="750" fill="#AAA598" font-family="Arial, Helvetica, sans-serif" font-size="23">feedback that explains what changed</text>
 </svg>
