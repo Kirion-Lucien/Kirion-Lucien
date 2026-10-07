@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="1530" viewBox="0 0 820 1530" role="img" aria-labelledby="title desc">
+<title id="title">Lucien Frames — narrow composable contexts</title>
+<desc id="desc">Narrow constellation of eight independent operating contexts around a shared interface discipline.</desc>
+<rect width="820" height="1530" fill="#0B0C0F"/>
+<text x="48" y="72" fill="#F5C451" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="34" font-weight="700">03 / FRAMES</text>
+<text x="48" y="164" fill="#F4F1E8" font-family="Georgia, 'Times New Roman', serif" font-size="66">ONE INTERFACE</text>
+<text x="48" y="235" fill="#F4F1E8" font-family="Georgia, 'Times New Roman', serif" font-size="66">DISCIPLINE.</text>
+<text x="48" y="292" fill="#AAA598" font-family="Inter, Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Different operating constraints.</text>
+<rect x="185" y="370" width="450" height="160" rx="22" fill="#15140F" stroke="#F4F1E8" stroke-width="3"/>
+<text x="410" y="435" text-anchor="middle" fill="#F4F1E8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="42" font-weight="700">INTERFACE</text>
+<text x="410" y="486" text-anchor="middle" fill="#F4F1E8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="42" font-weight="700">DISCIPLINE</text>
+<circle cx="60" cy="615" r="7" fill="#F5C451"/><text x="80" y="625" fill="#F4F1E8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="30" font-weight="700">PUBLIC SERVICE</text><line x1="80" y1="645" x2="478" y2="645" stroke="#3B382E"/>
+<circle cx="352" cy="715" r="7" fill="#F5C451"/><text x="372" y="725" fill="#F4F1E8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="30" font-weight="700">MOBILE</text><line x1="372" y1="745" x2="770" y2="745" stroke="#3B382E"/>
+<circle cx="104" cy="815" r="7" fill="#F5C451"/><text x="124" y="825" fill="#F4F1E8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="30" font-weight="700">OPERATIONS</text><line x1="124" y1="845" x2="522" y2="845" stroke="#3B382E"/>
+<circle cx="402" cy="915" r="7" fill="#F5C451"/><text x="422" y="925" fill="#F4F1E8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="30" font-weight="700">DATA-DENSE</text><line x1="422" y1="945" x2="770" y2="945" stroke="#3B382E"/>
+<circle cx="70" cy="1015" r="7" fill="#F5C451"/><text x="90" y="1025" fill="#F4F1E8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="30" font-weight="700">REALTIME</text><line x1="90" y1="1045" x2="488" y2="1045" stroke="#3B382E"/>
+<circle cx="372" cy="1115" r="7" fill="#F5C451"/><text x="392" y="1125" fill="#F4F1E8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="30" font-weight="700">DESKTOP</text><line x1="392" y1="1145" x2="770" y2="1145" stroke="#3B382E"/>
+<circle cx="110" cy="1215" r="7" fill="#F5C451"/><text x="130" y="1225" fill="#F4F1E8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="30" font-weight="700">KIOSK / POS</text><line x1="130" y1="1245" x2="528" y2="1245" stroke="#3B382E"/>
+<circle cx="327" cy="1315" r="7" fill="#F5C451"/><text x="347" y="1325" fill="#F4F1E8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="30" font-weight="700">OFFLINE / DEGRADED</text><line x1="347" y1="1345" x2="745" y2="1345" stroke="#3B382E"/>
+<line x1="48" y1="1400" x2="772" y2="1400" stroke="#B98518" stroke-width="3"/>
+<text x="48" y="1438" fill="#F5C451" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="24">COMPOSABLE EXAMPLE</text>
+<text x="48" y="1478" fill="#F4F1E8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="23">PUBLIC SERVICE + MOBILE + REALTIME + OFFLINE</text>
+</svg>
