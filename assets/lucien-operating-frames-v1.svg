@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">Operating frames — one interface discipline, different constraints</title>
+  <desc id="desc">Eight interface operating frames arranged as paired contexts around a shared interface discipline.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0C0F"/>
+      <stop offset="0.62" stop-color="#15140F"/>
+      <stop offset="1" stop-color="#0B0C0F"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="560" rx="12" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="558" rx="11" fill="none" stroke="#343127" stroke-width="2"/>
+  <text x="600" y="68" text-anchor="middle" fill="#F4F1E8" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700" letter-spacing="2">ONE INTERFACE DISCIPLINE</text>
+  <line x1="346" y1="91" x2="854" y2="91" stroke="#B98518" stroke-width="3"/>
+  <g>
+    <path d="M458 126 H742 M458 126 V206 M742 126 V206" fill="none" stroke="#706A5B" stroke-width="3"/>
+    <path d="M458 206 H742" fill="none" stroke="#706A5B" stroke-width="3"/>
+    <text x="600" y="181" text-anchor="middle" fill="#F4F1E8" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700">INTERFACE</text>
+    <rect x="588" y="114" width="24" height="24" transform="rotate(45 600 126)" fill="#F5C451"/>
+  </g>
+  <line x1="600" y1="206" x2="600" y2="480" stroke="#4A463B" stroke-width="3"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="700">
+    <text x="70" y="270" fill="#F4F1E8" font-size="42">PUBLIC SERVICE</text>
+    <line x1="386" y1="256" x2="574" y2="256" stroke="#4A463B" stroke-width="3"/>
+    <circle cx="600" cy="256" r="7" fill="#F5C451"/>
+    <line x1="626" y1="256" x2="770" y2="256" stroke="#4A463B" stroke-width="3"/>
+    <text x="800" y="270" fill="#F4F1E8" font-size="42">OPERATIONS</text>
+    <text x="70" y="338" fill="#F4F1E8" font-size="42">MOBILE</text>
+    <line x1="280" y1="324" x2="574" y2="324" stroke="#4A463B" stroke-width="3"/>
+    <circle cx="600" cy="324" r="7" fill="#C8C2B3"/>
+    <line x1="626" y1="324" x2="770" y2="324" stroke="#4A463B" stroke-width="3"/>
+    <text x="800" y="338" fill="#F4F1E8" font-size="42">DESKTOP</text>
+    <text x="70" y="406" fill="#F4F1E8" font-size="42">DATA-DENSE</text>
+    <line x1="350" y1="392" x2="574" y2="392" stroke="#4A463B" stroke-width="3"/>
+    <circle cx="600" cy="392" r="7" fill="#C8C2B3"/>
+    <line x1="626" y1="392" x2="770" y2="392" stroke="#4A463B" stroke-width="3"/>
+    <text x="800" y="406" fill="#F4F1E8" font-size="42">REALTIME</text>
+    <text x="70" y="474" fill="#F4F1E8" font-size="42">KIOSK / POS</text>
+    <line x1="330" y1="460" x2="574" y2="460" stroke="#4A463B" stroke-width="3"/>
+    <circle cx="600" cy="460" r="7" fill="#C8C2B3"/>
+    <line x1="626" y1="460" x2="700" y2="460" stroke="#4A463B" stroke-width="3"/>
+    <text x="730" y="474" fill="#F4F1E8" font-size="34">OFFLINE / DEGRADED</text>
+  </g>
+  <text x="600" y="530" text-anchor="middle" fill="#BDB8AB" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="38" font-weight="700" letter-spacing="3">DIFFERENT OPERATING CONSTRAINTS</text>
+</svg>
