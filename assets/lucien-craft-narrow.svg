@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="1420" viewBox="0 0 820 1420" role="img" aria-labelledby="title desc">
+<title id="title">Lucien Craft — narrow composition</title>
+<desc id="desc">Five craft principles followed by failure-state thinking and the restrained implementation surface.</desc>
+<rect width="820" height="1420" fill="#0B0C0F"/>
+<text x="48" y="72" fill="#F5C451" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="34" font-weight="700">04 / CRAFT</text>
+<text x="48" y="158" fill="#F4F1E8" font-family="Georgia, 'Times New Roman', serif" font-size="62">DECISIONS BEFORE</text>
+<text x="48" y="226" fill="#F4F1E8" font-family="Georgia, 'Times New Roman', serif" font-size="62">DECORATION.</text>
+<text x="48" y="330" fill="#F4F1E8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="38" font-weight="700">HIERARCHY</text><text x="48" y="373" fill="#AAA598" font-family="Georgia, 'Times New Roman', serif" font-size="31">before decoration.</text><line x1="48" y1="402" x2="772" y2="402" stroke="#3B382E"/>
+<text x="48" y="450" fill="#F4F1E8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="38" font-weight="700">STATE</text><text x="48" y="493" fill="#AAA598" font-family="Georgia, 'Times New Roman', serif" font-size="31">before animation.</text><line x1="48" y1="522" x2="772" y2="522" stroke="#3B382E"/>
+<text x="48" y="570" fill="#F4F1E8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="38" font-weight="700">ACCESSIBILITY</text><text x="48" y="613" fill="#AAA598" font-family="Georgia, 'Times New Roman', serif" font-size="31">before cleverness.</text><line x1="48" y1="642" x2="772" y2="642" stroke="#3B382E"/>
+<text x="48" y="690" fill="#F4F1E8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="38" font-weight="700">CONSISTENCY</text><text x="48" y="733" fill="#AAA598" font-family="Georgia, 'Times New Roman', serif" font-size="31">before novelty.</text><line x1="48" y1="762" x2="772" y2="762" stroke="#3B382E"/>
+<text x="48" y="810" fill="#F4F1E8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="38" font-weight="700">EVIDENCE</text><text x="48" y="853" fill="#AAA598" font-family="Georgia, 'Times New Roman', serif" font-size="31">before preference.</text><line x1="48" y1="882" x2="772" y2="882" stroke="#3B382E"/>
+<text x="48" y="970" fill="#F5C451" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="30" font-weight="700">WHEN THE IDEAL PATH BREAKS</text>
+<text x="48" y="1025" fill="#F4F1E8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="31">loading · error · permission · retry · disabled</text>
+<text x="48" y="1070" fill="#F4F1E8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="31">focus · responsive behavior · semantic structure</text>
+<text x="48" y="1130" fill="#AAA598" font-family="Inter, Arial, Helvetica, sans-serif" font-size="30">The system still has to explain itself when data,</text>
+<text x="48" y="1166" fill="#AAA598" font-family="Inter, Arial, Helvetica, sans-serif" font-size="30">access, or connectivity changes.</text>
+<line x1="48" y1="1235" x2="772" y2="1235" stroke="#B98518" stroke-width="3"/>
+<text x="48" y="1280" fill="#F5C451" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="26">HTML · CSS · JavaScript · TypeScript · React</text>
+<text x="48" y="1325" fill="#F4F1E8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="25">components · tokens · state</text>
+<text x="48" y="1370" fill="#F4F1E8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="25">responsive systems · testing</text>
+</svg>

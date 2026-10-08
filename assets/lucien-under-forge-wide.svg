@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1050" viewBox="0 0 1440 1050" role="img" aria-labelledby="title desc">
+<title id="title">Lucien Under Forge — governed specialization systems and frontend intelligence Forge</title>
+<desc id="desc">Two under-forge specialization surfaces and a governed frontend engineering intelligence loop.</desc>
+<rect width="1440" height="1050" fill="#0B0C0F"/>
+<text x="64" y="76" fill="#F5C451" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="32" font-weight="700">05 / UNDER FORGE</text>
+<text x="64" y="164" fill="#F4F1E8" font-family="Georgia, 'Times New Roman', serif" font-size="70">GOVERNED EVOLUTION.</text>
+<text x="64" y="218" fill="#AAA598" font-family="Inter, Arial, Helvetica, sans-serif" font-size="29">Nothing becomes doctrine merely because it was written down.</text>
+<rect x="64" y="290" width="620" height="250" rx="20" fill="#15140F" stroke="#3B382E" stroke-width="2"/>
+<text x="96" y="346" fill="#F4F1E8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="40" font-weight="700">FRONTEND UI/UX FORGE</text>
+<rect x="96" y="382" width="18" height="18" transform="rotate(45 105 391)" fill="#F5C451"/><text x="134" y="403" fill="#F5C451" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="27" font-weight="700">UNDER FORGE</text>
+<text x="96" y="458" fill="#AAA598" font-family="Inter, Arial, Helvetica, sans-serif" font-size="25">I acquire, test, classify, and refine</text><text x="96" y="493" fill="#AAA598" font-family="Inter, Arial, Helvetica, sans-serif" font-size="25">interface-engineering knowledge for reuse.</text>
+<rect x="756" y="290" width="620" height="250" rx="20" fill="#15140F" stroke="#3B382E" stroke-width="2"/>
+<text x="788" y="346" fill="#F4F1E8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="40" font-weight="700">UI/UX MASTER</text>
+<rect x="788" y="382" width="18" height="18" transform="rotate(45 797 391)" fill="#F5C451"/><text x="826" y="403" fill="#F5C451" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="27" font-weight="700">UNDER FORGE</text>
+<text x="788" y="458" fill="#AAA598" font-family="Inter, Arial, Helvetica, sans-serif" font-size="25">I consolidate accepted architecture,</text><text x="788" y="493" fill="#AAA598" font-family="Inter, Arial, Helvetica, sans-serif" font-size="25">hierarchy, interaction, and implementation judgment.</text>
+<text x="64" y="635" fill="#F5C451" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="25" font-weight="700">FRONTEND ENGINEERING INTELLIGENCE FORGE</text>
+<text x="64" y="685" fill="#F4F1E8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="31" font-weight="700">I maintain a governed evidence → implementation loop.</text>
+<line x1="110" y1="790" x2="1295" y2="790" stroke="#6C6659" stroke-width="3"/>
+<g font-family="Inter, Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#F4F1E8"><text x="72" y="760">EVIDENCE</text><text x="340" y="760">ANALYSIS</text><text x="605" y="760">EXPERIMENT</text><text x="900" y="760">IMPLEMENT</text><text x="1175" y="760">REVIEW</text></g>
+<g fill="#F5C451"><circle cx="115" cy="790" r="8"/><circle cx="390" cy="790" r="8"/><circle cx="665" cy="790" r="8"/><circle cx="945" cy="790" r="8"/><circle cx="1220" cy="790" r="8"/></g>
+<path d="M1220 815 C1220 905 115 905 115 815" fill="none" stroke="#B98518" stroke-width="3"/>
+<text x="720" y="938" text-anchor="middle" fill="#AAA598" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="23">accepted findings feed future frontend decisions · rejected assumptions stay rejected</text>
+<text x="64" y="1000" fill="#F4F1E8" font-family="Georgia, 'Times New Roman', serif" font-size="36">Still under forge. Still being refined.</text>
+</svg>

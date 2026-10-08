@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900" role="img" aria-labelledby="title desc">
+<title id="title">Lucien Disciplines — six interface and frontend engineering disciplines</title>
+<desc id="desc">Six equal disciplines organized as a shared human-facing system rather than a technology list.</desc>
+<rect width="1440" height="900" fill="#0B0C0F"/>
+<text x="64" y="76" fill="#F5C451" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="32" font-weight="700" letter-spacing="3">02 / DISCIPLINES</text>
+<text x="64" y="166" fill="#F4F1E8" font-family="Georgia, 'Times New Roman', serif" font-size="76">SIX DISCIPLINES.</text>
+<text x="64" y="232" fill="#AAA598" font-family="Inter, Arial, Helvetica, sans-serif" font-size="31">One human-facing boundary.</text>
+<line x1="720" y1="122" x2="720" y2="790" stroke="#3B382E" stroke-width="2"/>
+<text x="720" y="838" text-anchor="middle" fill="#F5C451" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="24" letter-spacing="3">STRUCTURE · BEHAVIOR · IMPLEMENTATION · INCLUSIVE USE</text>
+<text x="64" y="330" fill="#B98518" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="27" font-weight="700">01</text>
+<text x="128" y="330" fill="#F4F1E8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="35" font-weight="700">UI / UX SYSTEMS</text>
+<text x="128" y="378" fill="#AAA598" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="25">structure · flows · states</text>
+<line x1="128" y1="408" x2="654" y2="408" stroke="#3B382E"/>
+<text x="780" y="330" fill="#B98518" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="27" font-weight="700">02</text>
+<text x="844" y="330" fill="#F4F1E8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="35" font-weight="700">FRONTEND ENGINEERING</text>
+<text x="844" y="378" fill="#AAA598" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="25">implementation · behavior · integration</text>
+<line x1="844" y1="408" x2="1370" y2="408" stroke="#3B382E"/>
+<text x="64" y="500" fill="#B98518" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="27" font-weight="700">03</text>
+<text x="128" y="500" fill="#F4F1E8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="35" font-weight="700">INFORMATION ARCHITECTURE</text>
+<text x="128" y="548" fill="#AAA598" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="25">organization · priority · navigation</text>
+<line x1="128" y1="578" x2="654" y2="578" stroke="#3B382E"/>
+<text x="780" y="500" fill="#B98518" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="27" font-weight="700">04</text>
+<text x="844" y="500" fill="#F4F1E8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="35" font-weight="700">DESIGN SYSTEMS</text>
+<text x="844" y="548" fill="#AAA598" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="25">tokens · patterns · components</text>
+<line x1="844" y1="578" x2="1370" y2="578" stroke="#3B382E"/>
+<text x="64" y="670" fill="#B98518" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="27" font-weight="700">05</text>
+<text x="128" y="670" fill="#F4F1E8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="35" font-weight="700">INTERACTION DESIGN</text>
+<text x="128" y="718" fill="#AAA598" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="25">feedback · motion · transitions</text>
+<line x1="128" y1="748" x2="654" y2="748" stroke="#3B382E"/>
+<text x="780" y="670" fill="#B98518" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="27" font-weight="700">06</text>
+<text x="844" y="670" fill="#F4F1E8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="35" font-weight="700">ACCESSIBILITY</text>
+<text x="844" y="718" fill="#AAA598" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="25">semantics · focus · inclusive use</text>
+<line x1="844" y1="748" x2="1370" y2="748" stroke="#3B382E"/>
+</svg>

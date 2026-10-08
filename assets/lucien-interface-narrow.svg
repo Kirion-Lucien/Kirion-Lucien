@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="1220" viewBox="0 0 820 1220" role="img" aria-labelledby="title desc">
+<title id="title">Lucien Interface — narrow composition</title>
+<desc id="desc">Narrow interface doctrine visual with priority, state, recovery, and context organized for mobile reading.</desc>
+<rect width="820" height="1220" fill="#0B0C0F"/>
+<text x="48" y="72" fill="#F5C451" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="34" font-weight="700" letter-spacing="2">01 / INTERFACE</text>
+<text x="48" y="168" fill="#F4F1E8" font-family="Georgia, 'Times New Roman', serif" font-size="72">CLARITY IS PART</text>
+<text x="48" y="246" fill="#F4F1E8" font-family="Georgia, 'Times New Roman', serif" font-size="72">OF CORRECTNESS.</text>
+<text x="50" y="310" fill="#AAA598" font-family="Inter, Arial, Helvetica, sans-serif" font-size="30" font-weight="700">I shape the human-facing boundary.</text>
+<line x1="48" y1="358" x2="772" y2="358" stroke="#B98518" stroke-width="3"/>
+<g font-family="Inter, Arial, Helvetica, sans-serif">
+  <text x="48" y="430" fill="#B98518" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="28" font-weight="700">01</text><text x="108" y="430" fill="#F4F1E8" font-size="38" font-weight="700">PRIORITY</text><text x="108" y="472" fill="#AAA598" font-size="31">what deserves attention now</text>
+  <line x1="108" y1="496" x2="770" y2="496" stroke="#3B382E"/>
+  <text x="48" y="565" fill="#B98518" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="28" font-weight="700">02</text><text x="108" y="565" fill="#F4F1E8" font-size="38" font-weight="700">STATE</text><text x="108" y="607" fill="#AAA598" font-size="31">what changed and what it means</text>
+  <line x1="108" y1="631" x2="770" y2="631" stroke="#3B382E"/>
+  <text x="48" y="700" fill="#B98518" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="28" font-weight="700">03</text><text x="108" y="700" fill="#F4F1E8" font-size="38" font-weight="700">RECOVERY</text><text x="108" y="742" fill="#AAA598" font-size="31">what happens when the ideal path breaks</text>
+  <line x1="108" y1="766" x2="770" y2="766" stroke="#3B382E"/>
+  <text x="48" y="835" fill="#B98518" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="28" font-weight="700">04</text><text x="108" y="835" fill="#F4F1E8" font-size="38" font-weight="700">CONTEXT</text><text x="108" y="877" fill="#AAA598" font-size="31">people · task · device · conditions</text>
+</g>
+<line x1="48" y1="948" x2="772" y2="948" stroke="#3B382E" stroke-width="2"/>
+<text x="48" y="1002" fill="#AAA598" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="28">SYSTEM INTENT</text>
+<line x1="48" y1="1036" x2="772" y2="1036" stroke="#6C6659" stroke-width="2"/>
+<circle cx="160" cy="1036" r="8" fill="#F5C451"/><circle cx="330" cy="1036" r="8" fill="#F5C451"/><circle cx="500" cy="1036" r="8" fill="#F5C451"/><circle cx="660" cy="1036" r="8" fill="#F5C451"/>
+<text x="48" y="1092" fill="#F4F1E8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="30">structure · interaction · hierarchy · implementation</text>
+<text x="48" y="1138" fill="#AAA598" font-family="Inter, Arial, Helvetica, sans-serif" font-size="30">responsive behavior · accessibility · feedback</text>
+<text x="48" y="1186" fill="#F5C451" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="28">HUMAN UNDERSTANDING</text>
+</svg>
