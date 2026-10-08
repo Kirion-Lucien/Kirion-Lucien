@@ -17,5 +17,6 @@
 <text x="48" y="1166" fill="#AAA598" font-family="Inter, Arial, Helvetica, sans-serif" font-size="30">access, or connectivity changes.</text>
 <line x1="48" y1="1235" x2="772" y2="1235" stroke="#B98518" stroke-width="3"/>
 <text x="48" y="1280" fill="#F5C451" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="26">HTML · CSS · JavaScript · TypeScript · React</text>
-<text x="48" y="1325" fill="#F4F1E8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="25">components · tokens · state · responsive systems · testing</text>
+<text x="48" y="1325" fill="#F4F1E8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="25">components · tokens · state</text>
+<text x="48" y="1370" fill="#F4F1E8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="25">responsive systems · testing</text>
 </svg>

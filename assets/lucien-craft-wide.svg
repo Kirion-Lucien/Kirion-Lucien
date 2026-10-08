@@ -20,5 +20,5 @@
 <text x="915" y="622" fill="#AAA598" font-family="Inter, Arial, Helvetica, sans-serif" font-size="26">The system still has to explain itself</text>
 <text x="915" y="660" fill="#AAA598" font-family="Inter, Arial, Helvetica, sans-serif" font-size="26">when data, access, or connectivity changes.</text>
 <text x="64" y="850" fill="#F5C451" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="24">HTML · CSS · JavaScript · TypeScript · React</text>
-<text x="690" y="850" fill="#F4F1E8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="22">components · tokens · state · responsive systems · testing</text>
+<text x="64" y="890" fill="#F4F1E8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="22">components · tokens · state · responsive systems · testing</text>
 </svg>
